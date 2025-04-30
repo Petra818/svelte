@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+body {
+	@apply border-b-cyan-800;
+	@apply font-mono;
+}
+button {
+	@apply cursor-pointer;
+
+
+
+}
+
+
+	
