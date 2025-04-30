@@ -1,0 +1,1 @@
+import{t as n,a as o}from"../chunks/DcKXR_lx.js";var t=n('<main class=" h-screen w-full"><h1 class="p-20 text-center text-4xl font-bold">WELCOME TO HOMEPAGE</h1> <span class="block w-full border border-b-cyan-800"></span></main>');function p(a,r){var e=t();o(a,e)}export{p as component};
